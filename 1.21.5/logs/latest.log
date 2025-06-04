@@ -1,23 +1,52 @@
-[14:17:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:17:45] [ServerMain/INFO]: No existing world data, creating new world
-[14:17:46] [ServerMain/INFO]: Loaded 1373 recipes
-[14:17:46] [ServerMain/INFO]: Loaded 1484 advancements
-[14:17:46] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[14:17:46] [Server thread/INFO]: Loading properties
-[14:17:46] [Server thread/INFO]: Default game type: SURVIVAL
-[14:17:46] [Server thread/INFO]: Generating keypair
-[14:17:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:17:47] [Server thread/INFO]: Using epoll channel type
-[14:17:47] [Server thread/INFO]: Preparing level "world"
-[14:17:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:17:52] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[14:17:52] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[14:17:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[14:17:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[14:17:54] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[14:17:54] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[14:17:55] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[14:17:55] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[14:17:56] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[14:17:56] [Server thread/INFO]: Time elapsed: 4140 ms
-[14:17:56] [Server thread/INFO]: Done (9.307s)! For help, type "help"
+[14:58:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:58:34] [ServerMain/INFO]: Loaded 1373 recipes
+[14:58:35] [ServerMain/INFO]: Loaded 1484 advancements
+[14:58:35] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[14:58:35] [Server thread/INFO]: Loading properties
+[14:58:35] [Server thread/INFO]: Default game type: SURVIVAL
+[14:58:35] [Server thread/INFO]: Generating keypair
+[14:58:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:58:35] [Server thread/INFO]: Using epoll channel type
+[14:58:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:58:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:58:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:58:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:58:35] [Server thread/INFO]: Preparing level "world"
+[14:58:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:58:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:58:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:58:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:58:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:58:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:58:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:58:38] [Server thread/INFO]: Time elapsed: 2644 ms
+[14:58:38] [Server thread/INFO]: Done (2.979s)! For help, type "help"
+[14:58:45] [Server thread/INFO]: TCAnh[/[0:0:0:0:0:0:0:1]:39394] logged in with entity id 15 at (11.409383494308692, 89.0, 148.8513357096258)
+[14:58:45] [Server thread/INFO]: TCAnh joined the game
+[15:09:54] [Server thread/INFO]: TCAnh has made the advancement [Getting an Upgrade]
+[15:22:40] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-72, y=65, z=47} iw{x=-72, y=63, z=47}
+[15:22:41] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-70, y=65, z=49} iw{x=-70, y=63, z=49}
+[15:22:48] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-71, y=64, z=46} iw{x=-73, y=63, z=45}
+[15:57:48] [Server thread/INFO]: TCAnh has made the advancement [Acquire Hardware]
+[16:00:22] [Server thread/INFO]: TCAnh has made the advancement [A Seedy Place]
+[16:00:52] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-86, y=67, z=73} iw{x=-86, y=65, z=73}
+[16:00:52] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-86, y=67, z=73} iw{x=-86, y=65, z=73}
+[16:01:19] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-86, y=67, z=72} iw{x=-86, y=65, z=72}
+[16:01:21] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-89, y=66, z=72} iw{x=-90, y=65, z=74}
+[16:01:23] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-86, y=66, z=76} iw{x=-85, y=64, z=76}
+[16:15:22] [Server thread/INFO]: TCAnh was shot by Pillager
+[16:17:45] [Server thread/INFO]: TCAnh has made the advancement [Monster Hunter]
+[16:36:47] [Server thread/INFO]: TCAnh was slain by Spider
+[16:47:16] [Server thread/INFO]: TCAnh lost connection: Disconnected
+[16:47:16] [Server thread/INFO]: TCAnh left the game
+[16:47:50] [Server thread/INFO]: Stopping the server
+[16:47:50] [Server thread/INFO]: Stopping server
+[16:47:50] [Server thread/INFO]: Saving players
+[16:47:50] [Server thread/INFO]: Saving worlds
+[16:47:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:47:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:47:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:47:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:47:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:47:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:47:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

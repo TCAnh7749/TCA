@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#while true; do date; sleep 300; done
 # Thay đổi thư mục làm việc sang thư mục repository của bạn
 # Ví dụ: cd /path/to/your/repository
 # Nếu tập lệnh này nằm trong thư mục gốc của repository, bạn có thể bỏ qua dòng này.
